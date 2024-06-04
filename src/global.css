@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ body{
+   direction: rtl;
+ }
+ .MuiFormControl-root .MuiFormControl-marginNormal .MuiFormControl-fullWidth .MuiTextField-root .css-cacmb7-MuiFormControl-root-MuiTextField-root{
+   margin-top: 0;
+ }
+ @font-face {
+   font-family: "vazir";
+   src: url("../src/assets/fonts/Vazir-Bold.ttf")
+ }
